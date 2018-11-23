@@ -351,7 +351,27 @@
         "/haominer/" : {
             "name": "Haominer",
             "link": "http://haominer.com/"
-        }
+        },
+        "/haominer/" : {
+            "name": "Haominer",
+            "link": "http://haominer.com/"
+        },
+        "/svpool.com/" : {
+            "name": "SV Pool",
+            "link": "http://haominer.com/"
+        },
+        "/Hello Mempool/" : {
+            "name": "Mempool",
+            "link": "http://Mempool.com/"
+        },
+        "/coingeek.com/" : {
+            "name": "CoinGeek",
+            "link": "http://Mempool/"
+        },
+        "/bmgpool.com/" : {
+            "name": "BMG Pool",
+            "link": "http:///bmgpool.com/"
+        }   
     },
     "payout_addresses" : {
         "1CjPR7Z5ZSyWk6WtXvSFgkptmpoi4UM9BC" : {
