@@ -357,19 +357,19 @@
             "link": "http://haominer.com/"
         },
         "/svpool.com/" : {
-            "name": "svpool",
-            "link": "http://haominer.com/"
+            "name": "SVpool",
+            "link": "http://svpool.com/"
         },
-        "/Hello Mempool/" : {
-            "name": "mempool",
+        "Hello Mempool" : {
+            "name": "Mempool",
             "link": "http://Mempool.com/"
         },
         "/coingeek.com/" : {
-            "name": "coingeek",
-            "link": "http://Mempool/"
+            "name": "Coingeek",
+            "link": "http://Coingeek.com/"
         },
         "/bmgpool.com/" : {
-            "name": "bmgpool",
+            "name": "Mmgpool",
             "link": "http:///bmgpool.com/"
         }   
     },
