@@ -357,19 +357,19 @@
             "link": "http://haominer.com/"
         },
         "/svpool.com/" : {
-            "name": "SV Pool",
+            "name": "svpool",
             "link": "http://haominer.com/"
         },
         "/Hello Mempool/" : {
-            "name": "Mempool",
+            "name": "mempool",
             "link": "http://Mempool.com/"
         },
         "/coingeek.com/" : {
-            "name": "CoinGeek",
+            "name": "coingeek",
             "link": "http://Mempool/"
         },
         "/bmgpool.com/" : {
-            "name": "BMG Pool",
+            "name": "bmgpool",
             "link": "http:///bmgpool.com/"
         }   
     },
@@ -713,6 +713,12 @@
         "3KJrsjfg1dD6CrsTeHdHVH3KqMpvL2XWQn" : {
             "name": "Poolin",
             "link": "https://www.poolin.com/"
+        },
+        "bitcoincash:qpj0qhnyrxmhfkp3pgqlegeny7zagyuvfqtlt90s7f" : {
+            "name": "mempool",
+            "link": "https://www.mempool.com/"
         }
+        
+        
     }
 }
