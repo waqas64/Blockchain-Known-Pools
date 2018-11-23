@@ -362,14 +362,14 @@
         },
         "Hello Mempool" : {
             "name": "Mempool",
-            "link": "http://Mempool.com/"
+            "link": "http://mempool.com/"
         },
         "/coingeek.com/" : {
             "name": "Coingeek",
             "link": "http://Coingeek.com/"
         },
         "/bmgpool.com/" : {
-            "name": "Mmgpool",
+            "name": "Bmgpool",
             "link": "http:///bmgpool.com/"
         }   
     },
@@ -715,8 +715,8 @@
             "link": "https://www.poolin.com/"
         },
         "bitcoincash:qpj0qhnyrxmhfkp3pgqlegeny7zagyuvfqtlt90s7f" : {
-            "name": "mempool",
-            "link": "https://www.mempool.com/"
+            "name": "Mempool",
+            "link": "https://mempool.com/"
         }
         
         
