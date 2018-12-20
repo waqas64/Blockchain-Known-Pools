@@ -1,5 +1,25 @@
 {
     "coinbase_tags" : {
+        "/svpool.com/" : {
+            "name": "SVpool",
+            "link": "http://svpool.com/"
+        },
+        "Hello Mempool" : {
+            "name": "Mempool",
+            "link": "http://mempool.com/"
+        },
+        "/coingeek.com/" : {
+            "name": "Coingeek",
+            "link": "http://Coingeek.com/"
+        },
+        "/bmgpool.com/" : {
+            "name": "Bmgpool",
+            "link": "http:///bmgpool.com/"
+        },   
+        "prohashing.com" : {
+            "name" : "prohashing.com",
+            "link" : "https://prohashing.com"
+        },
         "pool.bitcoin.com" : {
             "name" : "Bitcoin.com",
             "link" : "https://www.bitcoin.com"
@@ -355,25 +375,13 @@
         "/haominer/" : {
             "name": "Haominer",
             "link": "http://haominer.com/"
-        },
-        "/svpool.com/" : {
-            "name": "SVpool",
-            "link": "http://svpool.com/"
-        },
-        "Hello Mempool" : {
-            "name": "Mempool",
-            "link": "http://mempool.com/"
-        },
-        "/coingeek.com/" : {
-            "name": "Coingeek",
-            "link": "http://Coingeek.com/"
-        },
-        "/bmgpool.com/" : {
-            "name": "Bmgpool",
-            "link": "http:///bmgpool.com/"
-        }   
+        }      
     },
     "payout_addresses" : {
+        "bitcoincash:qpj0qhnyrxmhfkp3pgqlegeny7zagyuvfqtlt90s7f" : {
+            "name": "Mempool",
+            "link": "https://mempool.com/"
+        },
         "1CjPR7Z5ZSyWk6WtXvSFgkptmpoi4UM9BC" : {
             "name" : "GHash.IO",
             "link" : "https://ghash.io"
@@ -713,12 +721,6 @@
         "3KJrsjfg1dD6CrsTeHdHVH3KqMpvL2XWQn" : {
             "name": "Poolin",
             "link": "https://www.poolin.com/"
-        },
-        "bitcoincash:qpj0qhnyrxmhfkp3pgqlegeny7zagyuvfqtlt90s7f" : {
-            "name": "Mempool",
-            "link": "https://mempool.com/"
-        }
-        
-        
+        }   
     }
 }
