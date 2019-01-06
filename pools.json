@@ -20,6 +20,10 @@
             "name" : "prohashing.com",
             "link" : "https://prohashing.com"
         },
+        "/Kpool/" : {
+            "name" : "Kotopool",
+            "link" : "http://jp.kpool.jp/"
+        },
         "pool.bitcoin.com" : {
             "name" : "Bitcoin.com",
             "link" : "https://www.bitcoin.com"
