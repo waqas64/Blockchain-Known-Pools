@@ -17,12 +17,16 @@
             "link": "http:///bmgpool.com/"
         },   
         "prohashing.com" : {
-            "name" : "prohashing.com",
+            "name" : "Prohashing.com",
             "link" : "https://prohashing.com"
         },
         "/Kpool/" : {
             "name" : "Kotopool",
             "link" : "http://jp.kpool.jp/"
+        },
+        "/poolin.com/": {
+            "name" : "Poolin.com",
+            "link" : "https://www.poolin.com/"
         },
         "pool.bitcoin.com" : {
             "name" : "Bitcoin.com",
