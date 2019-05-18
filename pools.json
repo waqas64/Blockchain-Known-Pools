@@ -32,6 +32,14 @@
             "name" : "Poolin.com",
             "link" : "https://www.poolin.com/"
         },
+       "WhatsOnChain.com": {
+            "name" : "WhatsOnChain",
+            "link" : "https://whatsonchain.com/"
+        },
+        "satoshi.io": {
+            "name" : "Satoshi.io",
+            "link" : "https://satoshi.io/"
+        },
         "pool.bitcoin.com" : {
             "name" : "Bitcoin.com",
             "link" : "https://www.bitcoin.com"
