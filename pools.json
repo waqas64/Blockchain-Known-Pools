@@ -40,6 +40,10 @@
             "name" : "Satoshi.io",
             "link" : "https://satoshi.io/"
         },
+        "[BSV]": {
+            "name" : "Unknown - ..[BSV]..",
+            "link" : ""
+        },
         "pool.bitcoin.com" : {
             "name" : "Bitcoin.com",
             "link" : "https://www.bitcoin.com"
