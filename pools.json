@@ -14,7 +14,7 @@
         },
         "/bmgpool.com/" : {
             "name": "Bmgpool",
-            "link": "http:///bmgpool.com/"
+            "link": "http://bmgpool.com/"
         },   
         "prohashing.com" : {
             "name" : "Prohashing.com",
@@ -43,6 +43,22 @@
         "[BSV]": {
             "name" : "Unknown - ..[BSV]..",
             "link" : ""
+        },
+        "/bsvmining.io/": {
+            "name" : "bsvmining.io",
+            "link" : "https://bsvmining.io/"
+        },
+        "/COFFEE/": {
+            "name" : "Crypto Coffee ",
+            "link" : ""
+        },
+        "zpool.ca": {
+            "name" : "zpool.ca",
+            "link" : "zpool.ca"
+        },
+        "bmgpool.com/" : {
+            "name": "Bmgpool",
+            "link": "http://bmgpool.com/"
         },
         "pool.bitcoin.com" : {
             "name" : "Bitcoin.com",
