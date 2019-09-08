@@ -60,6 +60,14 @@
             "name": "Bmgpool",
             "link": "http://bmgpool.com/"
         },
+        "/Mining-Dutch/" : {
+            "name": "Mining-Dutch",
+            "link": "https://www.mining-dutch.nl"
+        },
+        "/FeePool.com/" : {
+            "name": "FeePool.com",
+            "link": "https://FeePool.com"
+        },
         "pool.bitcoin.com" : {
             "name" : "Bitcoin.com",
             "link" : "https://www.bitcoin.com"
