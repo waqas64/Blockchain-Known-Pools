@@ -104,6 +104,10 @@
             "name": "okex.com",
             "link": "https://www.okex.com"
         },
+        "SBICrypto.com" : {
+            "name": "SBICrypto.com",
+            "link": "https://SBICrypto.com"
+        },
         "pool.bitcoin.com" : {
             "name" : "Bitcoin.com",
             "link" : "https://www.bitcoin.com"
@@ -455,11 +459,7 @@
         "/haominer/" : {
             "name": "Haominer",
             "link": "http://haominer.com/"
-        },
-        "/haominer/" : {
-            "name": "Haominer",
-            "link": "http://haominer.com/"
-        }      
+        }
     },
     "payout_addresses" : {
         "bitcoincash:qpj0qhnyrxmhfkp3pgqlegeny7zagyuvfqtlt90s7f" : {
