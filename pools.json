@@ -108,6 +108,10 @@
             "name": "SBICrypto.com",
             "link": "https://SBICrypto.com"
         },
+        "/SpiderPool/" : {
+            "name" : "spiderpool.com",
+            "link" : "https://spiderpool.com"
+        },
         "pool.bitcoin.com" : {
             "name" : "Bitcoin.com",
             "link" : "https://www.bitcoin.com"
