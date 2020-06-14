@@ -112,6 +112,38 @@
             "name" : "spiderpool.com",
             "link" : "https://spiderpool.com"
         },
+        "/HuoBi/" : {
+            "name" : "HuoBi",
+            "link" : ""
+        },
+        "pool.binance.com" : {
+            "name" : "Binance",
+            "link" : ""
+        },
+        "/Binance/" : {
+            "name" : "Binance",
+            "link" : ""
+        },
+        "/narwhale/" : {
+            "name" : "narwhale",
+            "link" : ""
+        },
+        "24hourpool" : {
+            "name" : "24hourpool",
+            "link" : ""
+        },        
+        "mininggod" : {
+            "name" : "mininggod",
+            "link" : ""
+        },
+        "miraclepool.net" : {
+            "name" : "miraclepool.net",
+            "link" : ""
+        },
+        "miningdaddy.com" : {
+            "name" : "miningdaddy.com",
+            "link" : ""
+        }, 
         "pool.bitcoin.com" : {
             "name" : "Bitcoin.com",
             "link" : "https://www.bitcoin.com"
