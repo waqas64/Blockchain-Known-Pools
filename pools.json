@@ -148,6 +148,14 @@
             "name" : "Bitcoin.com",
             "link" : "https://www.bitcoin.com"
         },
+         "Hath" : {
+            "name" : "Hath",
+            "link" : ""
+        },
+         "WarpHash" : {
+            "name" : "WarpHash.com",
+            "link" : "https://warphash.com"
+        },
         "Mined By 175btc.com" : {
             "name" : "175btc",
             "link" : "https://www.175btc.com"
