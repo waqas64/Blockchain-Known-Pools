@@ -116,9 +116,13 @@
             "name": "GorillaPool.io 🦍",
             "link": "https://GorillaPool.io"
         },
-        "/SpiderPool/" : {
+         "/SpiderPool/" : {
             "name" : "spiderpool.com",
             "link" : "https://spiderpool.com"
+        },
+        "/MandalaPool.com/" : {
+            "name" : "MandalaPool.com",
+            "link" : "https://mandalapool.com"
         },
         "/HuoBi/" : {
             "name" : "HuoBi",
