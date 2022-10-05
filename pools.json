@@ -152,10 +152,14 @@
             "name" : "narwhale",
             "link" : ""
         },
+        "/Bitails.net/" : {
+            "name" : "Bitails.net",
+            "link" : "https://bitails.net"
+        }, 
         "24hourpool" : {
             "name" : "24hourpool",
             "link" : ""
-        },        
+        },
         "mininggod" : {
             "name" : "mininggod",
             "link" : ""
