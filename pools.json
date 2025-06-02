@@ -547,7 +547,11 @@
         "/haominer/" : {
             "name": "Haominer",
             "link": "http://haominer.com/"
-        }
+        },
+        "/taal.com_TERANODE/" : {
+            "name": "taal.com_Teranode",
+            "link": "https://taal.com"
+        }     
     },
     "payout_addresses" : {
         "bitcoincash:qpj0qhnyrxmhfkp3pgqlegeny7zagyuvfqtlt90s7f" : {
