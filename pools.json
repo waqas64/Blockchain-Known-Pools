@@ -555,7 +555,11 @@
         "/molepool.com/" : {
             "name": "molepool.com",
             "link": "https://molepool.com/"
-        }
+        },
+        "GorillaNode.io" : {
+            "name" : "GorillaNode.io 🦍",
+            "link" : "https://gorillanode.io/"
+       }
     },
     "payout_addresses" : {
         "bitcoincash:qpj0qhnyrxmhfkp3pgqlegeny7zagyuvfqtlt90s7f" : {
